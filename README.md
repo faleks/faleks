@@ -1,8 +1,8 @@
 <h1>Hi, I'm Fatima!</h1> 
 
-I am currently working on the Google Data Analytics Professional Certificate and will soon start the B.S. in Data Management and Analytics program at WGU.  
+I am currently working on the B.S. in Data Analytics program at WGU.  
 I plan to upload projects here as I progress.
-
+<!--
 <h2>Programming and Data Analysis Projects</h2>
 
 Coming soon...
@@ -14,7 +14,7 @@ Coming soon...
 [linkedin]: https://www.linkedin.com/in/fatima-aleksander/
 
 
-<!--
+
 **faleks/faleks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
